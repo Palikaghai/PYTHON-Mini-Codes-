@@ -1,0 +1,6 @@
+import calendar
+yearr= //write a year
+monthh= //write a month too
+//DISPLAYING 
+print(calendar.month(yearr,monthh))
+  
